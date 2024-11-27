@@ -1,4 +1,4 @@
-# MNIST Neural Network Experiments
+# Deep Neural Network Experiments with MNIST and Custom Datasets
 
 This project explores the design, training, and evaluation of a Sequential neural network model for multi-class classification using the MNIST dataset and a custom dataset. The experiments focus on understanding the impacts of architecture and hyperparameter changes on model performance and generalization.
 
